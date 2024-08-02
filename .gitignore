@@ -169,3 +169,11 @@ downloadES6D/
 datasets/coco8
 datasets/coco8-seg
 datasets/green
+models/es6d/es6d_simplified.onnx
+models/es6d/es6d_simplified.engine
+models/yolo/best_raw.engine
+models/yolo/best_sim.engine
+models/yolo/best_sim.onnx
+models/yolo/best.engine
+models/yolo/best.onnx
+models/yolo/best.pkl
